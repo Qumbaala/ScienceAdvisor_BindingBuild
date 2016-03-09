@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Science Advisor</string>
+    <string name="reset_btn">Reset</string>
+    <string name="calculate_score">Calculate Score</string>
+</resources>
